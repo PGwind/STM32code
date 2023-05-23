@@ -691,16 +691,6 @@
           <GroupName>Hardware</GroupName>
           <Files>
             <File>
-              <FileName>LED.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\LED.c</FilePath>
-            </File>
-            <File>
-              <FileName>LED.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\LED.h</FilePath>
-            </File>
-            <File>
               <FileName>Key.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\Key.c</FilePath>
@@ -709,16 +699,6 @@
               <FileName>Key.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Hardware\Key.h</FilePath>
-            </File>
-            <File>
-              <FileName>Buzzer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\Buzzer.c</FilePath>
-            </File>
-            <File>
-              <FileName>Buzzer.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\Buzzer.h</FilePath>
             </File>
             <File>
               <FileName>LightSensor.c</FileName>
