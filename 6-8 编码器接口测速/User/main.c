@@ -11,7 +11,7 @@ int main(void)
 	OLED_Init();
 	Timer_Init();
 	Encoder_Init();
-	
+	 
 	OLED_ShowString(1,1, "Speed: ");
 
 	
